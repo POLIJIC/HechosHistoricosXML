@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE HechosHistoricos SYSTEM "HechosHistoricos.dtd">
 <HechosHistoricos>
+    <HechosHistorico descripcion="">
+        <Fecha>
+            <FormatoFecha>
+                <Dia>25</Dia>
+                <Mes>10</Mes>
+                <Año>2020</Año>
+            </FormatoFecha>
+        </Fecha>
+        <Epoca/>
+        <PersonajeDestacado>
+
+        </PersonajeDestacado>
+    </HechosHistorico>
+    <HechosHistorico descripcion="">
+        <Fecha>
+            22-67-56
+        </Fecha>
+        <Epoca/>
+        <PersonajeDestacado>
+            
+        </PersonajeDestacado>
+    </HechosHistorico>
 
 </HechosHistoricos>
